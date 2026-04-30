@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import { ThemeCard } from "@/components/features/themes/ThemeCard";
 import { Footer } from "@/components/layout/Footer";
 import { Header } from "@/components/layout/Header";
